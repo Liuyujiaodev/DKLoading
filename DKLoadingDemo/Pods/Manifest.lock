@@ -1,0 +1,24 @@
+PODS:
+  - Reachability (3.2)
+  - UtilStr (1.0.1):
+    - YJUtil
+  - YJBase64 (1.0.1)
+  - YJCategory (1.2.2)
+  - YJUtil (1.1.1):
+    - Reachability
+    - YJBase64
+    - YJCategory
+
+DEPENDENCIES:
+  - UtilStr
+
+SPEC CHECKSUMS:
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  UtilStr: 078658478a697fe368c39a246c5a51fa429e74bb
+  YJBase64: 867bdea21f098a39fc1492833db871d784149afc
+  YJCategory: 10feae3800ca90b16af3d0f322f8673711f2add6
+  YJUtil: 837363deb161d4ecf4c89ee875f2332836dcc560
+
+PODFILE CHECKSUM: a4e60ee7b2d80e6543b9d87c619d622ec2435a74
+
+COCOAPODS: 1.4.0.rc.1
